@@ -207,7 +207,7 @@ redirect_from:
 </body>
 </html>
 
-I am currently a PhD student (2025.09-present) in Mechanics at Beijing Institute of Technology, focusing on topological mechanical metamaterials. Previously, I worked as an aircraft engineer at Lingyun-18 (2024.06-2025.7).
+I am currently a PhD student (2025.09-present) in Mechanics at Beijing Institute of Technology, focusing on topological mechanical metamaterials and topology optimization. Previously, I worked as an aircraft engineer at Lingyun-18 (2024.06-2025.07). I'm always open to collaboration and discussion on related research topics.
 
 News
 ---------------
@@ -253,6 +253,7 @@ Experience
       </div>
   </div>
 
+--------------
 Publications
 --------------
 <div class="pub-button-container">
