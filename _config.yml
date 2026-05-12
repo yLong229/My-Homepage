@@ -21,7 +21,7 @@ repository               : "Selen-Suyue/Selen"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selen.png"
+  avatar           : "Elion.png"
   name             : "Elion Zhang 张怡龙"
   pronouns         : "PHD student at BIT"
   bio              : "Exploring the frontiers of AI and robotics"
