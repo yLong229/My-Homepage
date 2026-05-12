@@ -207,7 +207,7 @@ redirect_from:
 </body>
 </html>
 
-I am currently a PhD student (2025-present) in Mechanics at Beijing Institute of Technology, focusing on topological mechanical metamaterials. Previously, I worked as an aircraft engineer at Lingyun-18 (2024-2025).
+I am currently a PhD student (2025.09-present) in Mechanics at Beijing Institute of Technology, focusing on topological mechanical metamaterials. Previously, I worked as an aircraft engineer at Lingyun-18 (2024.06-2025.7).
 
 News
 ---------------
@@ -218,60 +218,40 @@ Experience
 
 <div class="experience-container">
   <div class="experience-card">
-      <img src="images/HKU.png" alt="HKU logo" class="experience-logo">
+      <img src="images/BIT.png" alt="BIT logo" class="experience-logo">
       <div class="experience-info">
-          <strong>The University of Hong Kong</strong><br>
-          Sep 2026 - <br>
-          Phd at <a href="https://mmlab.hk/"><em>MMLab@HKU</em></a> 
+          <strong>Beijing Institute of Technology</strong><br>
+          Sep 2025 - Present<br>
+          PhD in Mechanics - Topological Mechanical Metamaterials
       </div>
   </div>
 
   <div class="experience-card">
-      <img src="images/bytedance.png" alt="Seed logo" class="experience-logo">
+      <img src="images/LY18.png" alt="Lingyun-18 logo" class="experience-logo">
       <div class="experience-info">
-          <strong>ByteDance Seed</strong><br>
-          Oct 2025 - May 2026<br>
-          MLE Intern at <a href="https://seed.bytedance.com/en/"><em>Seed-Robotics</em></a> 
+          <strong>Lingyun-18</strong><br>
+          Jun 2024 - Jul 2025<br>
+          Aircraft Engineer
       </div>
   </div>
 
   <div class="experience-card">
-      <img src="images/astri.png" alt="astri logo" class="experience-logo">
+      <img src="images/XMU.jfif" alt="XMU logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Astribot Inc.</strong><br>
-          June 2025 - Sep 2025<br>
-          MLE Intern advised by <a href="https://scholar.google.com/citations?user=mt5mvZ8AAAAJ&hl=en"><em>Jianan Wang</em></a>
+          <strong>Xiamen University</strong><br>
+          Sep 2021 - Jun 2024<br>
+          M.Eng. in Energy and Power Engineering - Topology Optimization
       </div>
   </div>
 
   <div class="experience-card">
-      <img src="images/SJTU.png" alt="SJTU logo" class="experience-logo">
+      <img src="images/CCUT.png" alt="CCUT logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Shanghai Jiao Tong University</strong><br>
-          July 2024 - June 2025<br>
-          Research Assistant at <a href="https://www.mvig.org/index.html"><em>MVIG</em></a> Lab
+          <strong>Changchun University of Technology</strong><br>
+          Sep 2017 - Jun 2021<br>
+          B.Eng. in Mechanical Engineering - Mechanical Design
       </div>
   </div>
-
-  <div class="experience-card">
-      <img src="images/XDU.png" alt="Xi'dian logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Xidian University</strong><br>
-          Sep 2022 - July 2026<br>
-          Rank 4/174, <b>National Scholarship</b><br>
-          B.E at <a href="https://sai.xidian.edu.cn"><em>SAI</em></a> & RA at <a href="https://web.xidian.edu.cn/mggong/"><em>OMEGA</em></a> Lab
-      </div>
-  </div>
-
-  <div class="experience-card">
-      <img src="images/ssy.png" alt="ssy logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Hubei Wuchang Experimental High School</strong><br>
-          Sep 2019 - June 2022<br>
-          那是一段小有遗憾的幸福时光.
-      </div>
-  </div>
-</div>
 
 Publications
 --------------
