@@ -207,7 +207,7 @@ redirect_from:
 </body>
 </html>
 
-I am an undergraduate (2022-2026) at Xidian University and incoming Phd at [MMLab@HKU](https://mmlab.hk/) with [Prof. Xihui Liu](https://xh-liu.github.io/). Previously I worked at [ByteDance Seed](https://seed.bytedance.com/en/). I was also an RA at [MVIG@SJTU](https://www.mvig.org/index.html) with [Prof. Lixin Yang](https://lixiny.github.io/) and [Prof. Cewu Lu](https://www.mvig.org/index.html).
+I am currently a PhD student (2025-present) in Mechanics at Beijing Institute of Technology, focusing on topological mechanical metamaterials. I received my M.Eng. in Energy and Power Engineering from Xiamen University (2021-2024), specializing in topology optimization, and my B.Eng. in Mechanical Engineering from Changchun University of Technology (2017-2021). Previously, I worked as an aircraft engineer at Lingyun-18 (2024-2025).
 
 News
 ---------------
